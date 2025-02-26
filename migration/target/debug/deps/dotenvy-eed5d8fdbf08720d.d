@@ -1,0 +1,11 @@
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\libdotenvy-eed5d8fdbf08720d.rmeta: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\errors.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\find.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\iter.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\libdotenvy-eed5d8fdbf08720d.rlib: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\errors.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\find.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\iter.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\dotenvy-eed5d8fdbf08720d.d: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\errors.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\find.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\iter.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\lib.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\errors.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\find.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\iter.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\parse.rs:

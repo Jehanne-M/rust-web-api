@@ -1,0 +1,10 @@
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\libsea_query_binder-d432627bbe1d5618.rmeta: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\sqlx_mysql.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\values.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\sqlx.rs
+
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\libsea_query_binder-d432627bbe1d5618.rlib: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\sqlx_mysql.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\values.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\sqlx.rs
+
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\sea_query_binder-d432627bbe1d5618.d: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\sqlx_mysql.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\values.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\sqlx.rs
+
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\lib.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\sqlx_mysql.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\values.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-binder-0.7.0\src\sqlx.rs:

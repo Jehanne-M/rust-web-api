@@ -1,0 +1,11 @@
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\libsocket2-60b25e8fdec1fce7.rmeta: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockaddr.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\socket.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockref.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sys\windows.rs
+
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\libsocket2-60b25e8fdec1fce7.rlib: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockaddr.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\socket.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockref.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sys\windows.rs
+
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\socket2-60b25e8fdec1fce7.d: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockaddr.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\socket.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockref.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sys\windows.rs
+
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\lib.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockaddr.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\socket.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockref.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sys\windows.rs:

@@ -1,0 +1,10 @@
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\sea_query_derive-c20d17861bb84847.dll: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\mod.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\attr.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\error.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\path.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\write_arm.rs
+
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\deps\sea_query_derive-c20d17861bb84847.d: C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\lib.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\mod.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\attr.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\error.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\path.rs C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\write_arm.rs
+
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\lib.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\mod.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\attr.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\error.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\path.rs:
+C:\Users\mikot\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.2\src\iden\write_arm.rs:

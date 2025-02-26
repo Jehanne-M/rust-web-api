@@ -1,0 +1,1 @@
+C:\Users\mikot\source\rust\seaorm-api\migration\target\debug\migration.exe: C:\Users\mikot\source\rust\seaorm-api\migration\src\lib.rs C:\Users\mikot\source\rust\seaorm-api\migration\src\m20250221_075209_create_table_user.rs C:\Users\mikot\source\rust\seaorm-api\migration\src\main.rs
