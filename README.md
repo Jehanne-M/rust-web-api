@@ -1,4 +1,8 @@
-# actix-web + sea-orm for mysql api
+# rust api study
+
+ actix-web + sea-orm for mysql
+
+-------
 
 ## features
 
